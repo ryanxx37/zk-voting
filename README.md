@@ -3,7 +3,7 @@ Anonymous voting on Ethereum blockchain using zero knowledge proof
 
 ## Usage
 
-- Clone the repository by `git clone https://github.com/ryanxx37/zktree-vote`
+- Clone the repository by `git clone https://github.com/ryanxx37/zk-voting`
 - Install wget (by `apt-get install wget` on Ubuntu/Debian)
 - Install the project dependencies and prepare by `npm install` in the project directory
 - Start a Hardhat node by `npx hardhat node` in the project directory
