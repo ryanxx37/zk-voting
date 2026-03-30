@@ -28,7 +28,7 @@ This guide is based on an environment running Ubuntu 22.04.
 Download[`zktree-vote`](https://github.com/ryanxx37/zk-voting)<sup><a href="#ref1">[1]</a></sup>repository and enter the directory:
 
 
-	git clone https://github.com/TheBojda/zktree-vote
+	git clone https://github.com/ryanxx37/zk-voting
 	cd zktree-vote
 
 **Install MetaMask**
