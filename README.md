@@ -25,7 +25,7 @@ This guide is based on an environment running Ubuntu 22.04.
 
 **Download the Repository**
 
-Download[`zktree-vote`](https://github.com/TheBojda/zktree-vote)<sup><a href="#ref1">[1]</a></sup>repository and enter the directory:
+Download[`zktree-vote`](https://github.com/ryanxx37/zk-voting)<sup><a href="#ref1">[1]</a></sup>repository and enter the directory:
 
 
 	git clone https://github.com/TheBojda/zktree-vote
