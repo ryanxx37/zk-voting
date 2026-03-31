@@ -242,4 +242,4 @@ https://github.com/CryptoFGG/Video/assets/41377444/ab5193e1-2719-49e6-b4e7-6720e
 ## References
 1. <p><a name = "ref1"></a>zktree-vote.https://github.com/TheBojda/zktree-vote</p>
 2. <p><a name = "ref2"></a>Download metamask.https://metamask.io/download/</p>
-3. <p><a name = "ref3"></a>ubuntu 22.04installnvm.https://blog.csdn.net/lxyoucan/article/details/130288356</p>
+3. <p><a name = "ref3"></a>ubuntu install.https://ubuntu.com/download</p>
